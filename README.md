@@ -6,6 +6,11 @@ Sou um futuro Engenheiro pelo Instituto Politécnico da UERJ (Nova Friburgo), co
 
 Não me contento em usar caixas-pretas e bibliotecas prontas. Meu objetivo é dominar a base da Engenharia de Software construindo soluções robustas, otimizadas para CPU e eficientes no uso de memória.
 
+### 🎓 Background & Formação
+* **Engenharia da Computação (UERJ-IPRJ):** Atualmente no 3º período no Instituto Politécnico (Nova Friburgo).
+* **Técnico em Desenvolvimento de Sistemas (SENAI):** Formação de 3 anos (concluída em Dez/2024), onde construí minha base prática de programação e arquitetura de software.
+* **Pesquisa Matemática:** Duas participações consecutivas no congresso **MATh.en.JEANS** no Brasil, aplicando métodos de pesquisa e resolução de problemas matemáticos complexos.
+
 ### 🚀 O que eu estou fazendo agora?
 * 📚 Conciliando o 3º período de Engenharia com estudos independentes do livro **Algorithmic Thinking** (Daniel Zingaro).
 * ⚡ Resolvendo problemas e evitando *Time Limit Exceeded* (TLE) em juízes online (Codeforces, UVa, Beecrowd).
