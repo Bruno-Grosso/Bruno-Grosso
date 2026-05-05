@@ -8,7 +8,7 @@ Não me contento em usar caixas-pretas e bibliotecas prontas. Meu objetivo é do
 
 ### 🚀 O que eu estou fazendo agora?
 * 📚 Conciliando o 3º período de Engenharia com estudos independentes do livro **Algorithmic Thinking** (Daniel Zingaro).
-* ⚡ Destruindo problemas e evitando *Time Limit Exceeded* (TLE) em juízes online (Codeforces, UVa, Beecrowd).
+* ⚡ Resolvendo problemas e evitando *Time Limit Exceeded* (TLE) em juízes online (Codeforces, UVa, Beecrowd).
 * 🏗️ Projetando Estruturas de Dados do zero em C (Tabelas Hash, Listas Encadeadas, tratamento de colisões e funções avançadas como *Jenkins Hash*).
 
 ### 💻 Minhas Ferramentas e Tecnologias
